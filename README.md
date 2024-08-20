@@ -30,7 +30,6 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 The Waterfall methodology is a linear and sequential approach to software development, best suited for projects with clear, unchanging requirements, like building medical devices. It focuses on completing one phase before moving to the next, with thorough documentation and limited customer involvement until the end. In contrast, Agile is an iterative and flexible approach, ideal for projects where requirements may evolve, such as developing mobile apps or continuously updating an e-commerce platform. Agile emphasizes regular customer feedback, frequent releases, and the ability to adapt quickly to changes.
 
 Explanation of the given examples:
-
 Medical Devices and Waterfall - Medical devices require strict adherence to regulatory standards, thorough documentation, and rigorous testing to ensure safety and compliance. The Waterfall methodology is ideal for this because it provides a structured, step-by-step process with detailed documentation and reviews at each phase. This ensures that every aspect of the device is carefully planned, implemented, and validated before it goes to market, reducing the risk of errors.
 
 E-commerce and Agile - E-commerce platforms need to be flexible and responsive to changing customer needs, market trends, and technological advancements. Agile allows for rapid iteration, frequent updates, and continuous improvement, which are crucial in a dynamic environment like e-commerce. The ability to release new features quickly, gather customer feedback, and make adjustments on the fly helps keep the platform competitive and aligned with user expectations.
@@ -51,10 +50,9 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Software engineers face many challenges and some include: 
+
 Changing Requirements: As development progresses, project needs might change, causing delays and expanding the project’s scope. To address this, software engineers should keep open lines of communication among team members and use Agile methodologies to adapt to changes effectively.
-
 Tight Deadlines: Rushed development to meet tight deadlines can lead to poor quality in the final product. Software engineers should manage this by prioritizing tasks and focusing on the most important parts of the project first.
-
 Technical Debt: Using quick fixes or less-than-ideal solutions can create problems later, making future development harder and more costly. Software engineers should regularly reassess project goals and timelines to maintain quality and address technical debt effectively.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
